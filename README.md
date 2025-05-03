@@ -1,1 +1,1 @@
-# -Clawbot_Stacking_Challenge
+So we built our robot and it worked well. We completely followed the manual, and after finishing our robot, we decided to add some extra stuff/ fix up some minor problems that didnt affect the robot too much. 
